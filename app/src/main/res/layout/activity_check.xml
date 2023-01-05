@@ -81,6 +81,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+                android:onClick="ok"
                 android:text="OK" />
         </LinearLayout>
 
@@ -95,6 +96,7 @@
                 android:layout_width="284dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+                android:onClick="cancel"
                 android:text="Cancel" />
         </LinearLayout>
 
